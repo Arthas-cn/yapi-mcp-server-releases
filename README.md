@@ -38,10 +38,6 @@ yapi-mcp-server --help
 
 所有二进制文件都在 [Releases](https://github.com/Arthas-cn/yapi-mcp-server-releases/releases) 页面。
 
-## 源代码
-
-源代码在私有仓库中维护。
-
 ## License
 
 MIT
